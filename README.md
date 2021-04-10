@@ -1,2 +1,2 @@
-# experiments
-Utility code for running and visualizing experiments
+# Experiment Utilities
+Utility code for running and visualizing experiments.
