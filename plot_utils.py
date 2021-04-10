@@ -1,9 +1,5 @@
-import json
 import numpy as np
 from scipy import interpolate
-import os
-import json
-from matplotlib import pyplot as plt
 
 
 class Plot:
